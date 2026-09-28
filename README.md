@@ -1,3 +1,3 @@
 # AGENT_AI
 
-An agentic AI that helps and assists you to automate your tasks and assignments.
+An agentic AI that assists you to make your tasks and assignments faster and more precise.
